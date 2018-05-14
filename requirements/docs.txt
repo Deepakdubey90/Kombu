@@ -1,0 +1,3 @@
+git+https://github.com/celery/sphinx_celery.git
+librabbitmq
+-r extras/mongodb.txt
